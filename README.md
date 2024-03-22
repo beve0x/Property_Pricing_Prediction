@@ -3,7 +3,7 @@
 
 <!-- Overview Section -->
 ## Overview
-Developed by Krish, the Property Pricing Prediction project aims to leverage the power of R and its associated packages to predict real estate prices based on historical property data. By employing advanced data processing techniques and predictive modeling, this project seeks to provide accurate property valuation, which is invaluable for investors, real estate professionals, and policy-makers.
+The Property Pricing Prediction project aims to leverage the power of R and its associated packages to predict real estate prices based on historical property data. By employing advanced data processing techniques and predictive modeling, this project seeks to provide accurate property valuation, which is invaluable for investors, real estate professionals, and policy-makers.
 
 <!-- Table of Contents -->
 ## Table of Contents
